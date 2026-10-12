@@ -1,0 +1,20 @@
+:root {
+  --ink-blue: #243B64;
+  --ink-blue-hover: #192B49;
+  --ink-blue-soft: #E6EBF2;
+  --parchment: #F4EBDD;
+  --brass: #B58A55;
+  --burgundy: #7C3F46;
+  --charcoal: #34363A;
+  --muted: #667080;
+  --white: #FFFFFF;
+  --border: #D8CDBB;
+  --success: #286447;
+  --error: #A43137;
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: "Segoe UI", Inter, Arial, sans-serif;
+  --content-width: 1200px;
+  --radius-card: 12px;
+  --radius-button: 8px;
+  --shadow-soft: 0 16px 45px rgba(36, 59, 100, .08);
+}
